@@ -44,16 +44,16 @@ vi is a text editor, with two basic modes
 
 To edit a text file:
 
-[Open a file]
-  vi filename
-[Enter insert mode]
-  i
-[Make Changes]
+  * [Open a file]
+  *   vi filename
+  * [Enter insert mode]
+    * i
+  * [Make Changes]
 
-[Quit, with saving]
-  [Esc]:wq!
-[Quit, without saving]
-  [Esc]:q!
+  * [Quit, with saving]
+    * [Esc]:wq!
+  * [Quit, without saving]
+    * [Esc]:q!
 
 
 Later, we learn about moving, deleting, copying, searching, save as, opening multiple files, etc.
