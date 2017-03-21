@@ -1,4 +1,3 @@
-
 == Core Git Commands ==
 
 cd ~/repos/myproject
@@ -7,13 +6,10 @@ git add .
 git commit
 git push
 
-
 === Create or Clone a Repo ===
-
 
 git init
 git clone [url]
-
 
 === Modify ===
 
@@ -29,8 +25,12 @@ git diff
 
 == Demo ==
 
+Download from URL, or by ssh:
+
  https://github.com/systemnotes/gitnotes.git
  git@github.com:systemnotes/gitnotes.git
+
+Steps:
 
   *  Clone a repo from github (git clone [url])
   *  Make Changes
@@ -38,8 +38,10 @@ git diff
   *  Commit (git commit)
   *  Push to repo (git push)
 
-  *  mkdir ~/code
-  *  cd ~/code
+Commands:
+
+  *  mkdir ~/repo
+  *  cd ~/repo
   *  git clone  https://github.com/systemnotes/gitnotes.git
   *  git add .
   *  git commit -m "initial commit"
