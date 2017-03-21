@@ -8,23 +8,6 @@ git commit
 git push
 
 
-== Demo ==
-
-  *  Clone a repo from github (git clone [url])
-  *  Make Changes
-  *  Stage (git add)
-  *  Commit (git commit)
-  *  Push to repo (git push)
-
-  *  mkdir ~/code
-  *  cd ~/code
-  *  git clone  https://github.com/systemnotes/gitnotes.git
-  *  git add .
-  *  git commit -m "initial commit"
-  *  git push
-
-
-
 === Create or Clone a Repo ===
 
 
@@ -43,5 +26,24 @@ git push
 git status
 git log
 git diff
+
+== Demo ==
+
+ https://github.com/systemnotes/gitnotes.git
+ git@github.com:systemnotes/gitnotes.git
+
+  *  Clone a repo from github (git clone [url])
+  *  Make Changes
+  *  Stage (git add)
+  *  Commit (git commit)
+  *  Push to repo (git push)
+
+  *  mkdir ~/code
+  *  cd ~/code
+  *  git clone  https://github.com/systemnotes/gitnotes.git
+  *  git add .
+  *  git commit -m "initial commit"
+  *  git push
+
 
 

@@ -16,3 +16,9 @@ $ ssh-add ~/.ssh/id_rsa
 Identity added: /home/username/.ssh/id_rsa (/home/username/.ssh/id_rsa)
 
 3.)  Add the ssh key to github/bitbucket accounts
+
+
+
+Once keys are in place, pushes can be sent by ssh, without prompts for password, instead of to a URL:
+
+git push git@github.com:systemnotes/gitnotes.git
