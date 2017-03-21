@@ -27,6 +27,22 @@ git commit
 git push
 
 ---------------------------------------------------------
+Git Reference
+
+https://git-scm.com/docs
+
+Git Cheat Sheets
+
+https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf
+https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf
+
+Git Repositories
+
+https://bitbucket.org
+https://github.com
+
+---------------------------------------------------------
 
 Quick Start for vi/vim
 
