@@ -2,8 +2,26 @@
 == Core Git Commands ==
 
 cd ~/repos/myproject
-git init
+git init (or git clone / git pull)
 git add .
+git commit
+git push
+
+
+== Demo ==
+
+  *  Clone a repo from github (git clone [url])
+  *  Make Changes
+  *  Stage (git add)
+  *  Commit (git commit)
+  *  Push to repo (git push)
+
+  *  mkdir ~/code
+  *  cd ~/code
+  *  git clone  https://github.com/systemnotes/gitnotes.git
+  *  git add .
+  *  git commit -m "initial commit"
+  *  git push
 
 
 
@@ -17,13 +35,13 @@ git clone [url]
 === Modify ===
 
 git add .
-
 git commit -m "message that describes this commit"
-
+git push
 
 === Check Status ===
 
 git status
 git log
+git diff
 
 

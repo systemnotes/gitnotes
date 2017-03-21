@@ -1,4 +1,4 @@
-Three States
+=== Three States of git ===
 
 
 [ Working Directory ]     [Staging Area]     [.git Repo]
@@ -13,3 +13,26 @@ Three States
      |                        | Commit  ---------->
 
 
+
+
+=== Git Work Flow ===
+
+[From origin]
+   \/
+----- in working directory -----
+[Checkout]
+git init / git clone
+
+[Change]
+
+[Stage]
+git add .
+
+[Commit]
+git commit
+
+[Publish]
+git push
+----- in working directory -----
+  \/
+[To origin]
