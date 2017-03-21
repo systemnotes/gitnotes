@@ -1,0 +1,15 @@
+Three States
+
+
+[ Working Directory ]     [Staging Area]     [.git Repo]
+---------------------     --------------     -----------
+     |                        |
+     |<<-------  Check out the project  -----------|
+     |                        |
+     |                        |
+     | Stage Fixes  --------> |
+     |                        |
+     |                        |
+     |                        | Commit  ---------->
+
+

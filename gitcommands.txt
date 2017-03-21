@@ -1,0 +1,29 @@
+
+== Core Git Commands ==
+
+cd ~/repos/myproject
+git init
+git add .
+
+
+
+=== Create or Clone a Repo ===
+
+
+git init
+git clone [url]
+
+
+=== Modify ===
+
+git add .
+
+git commit -m "message that describes this commit"
+
+
+=== Check Status ===
+
+git status
+git log
+
+
