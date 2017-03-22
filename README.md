@@ -46,6 +46,9 @@ Remote Repository Commands
   * git push
 
 ---------------------------------------------------------
+Install Git
+https://git-scm.com/downloads
+
 Git Reference
 
 https://git-scm.com/docs
