@@ -1,7 +1,7 @@
 # gitnotes
 Notes about how to use git
 
-There are cheat sheets available that contain advanced features, but this intro is intented to provide a quick start to learn git.
+There are cheat sheets available that contain advanced features, but this intro is intented to provide a quick start to learn git.  Start with the core commands, and learn new features as they are needed.
 
 ---------------------------------------------------------
 Quick Start for git
@@ -25,6 +25,25 @@ git commit
 
 [Publish to origin]
 git push
+
+---------------------------------------------------------
+
+Git Core Commands
+
+  * git init
+  * git add .
+  * git commit -m "initial commit"
+
+Supporting Commands
+
+  * git status
+  * git log
+
+Remote Repository Commands
+
+  * git clone [url]
+  * git pull
+  * git push
 
 ---------------------------------------------------------
 Git Reference
