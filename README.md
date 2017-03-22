@@ -1,16 +1,16 @@
 # gitnotes
 Notes about how to use git
 
-There are cheat sheets available that contain advanced features, but this intro is intented to provide a quick start to learn git.  Start with the core commands, and learn new features as they are needed.
+There are cheat sheets available that contain advanced features, but this intro is intented to provide a quick start to learn git.  Start with the core commands, and then learn new features as they are needed.
 
 ---------------------------------------------------------
-Quick Start for git
+## Quick Start for git
 
 Concept: All git work is local, until published (git push)
 
 Commands:
 
-=== Git Work Flow ===
+### Git Work Flow 
 
 [Checkout]
 git init / git clone
@@ -27,6 +27,8 @@ git commit
 git push
 
 ---------------------------------------------------------
+
+## Quick Start git Commands
 
 Git Core Commands
 
@@ -47,30 +49,31 @@ Remote Repository Commands
 
 ---------------------------------------------------------
 Install Git
-https://git-scm.com/downloads
+
+  * https://git-scm.com/downloads
 
 Git Reference
 
-https://git-scm.com/docs
+  * https://git-scm.com/docs
 
 Git Cheat Sheets
 
-https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
-http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf
-https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf
+  * https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+  * http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf
+  * https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf
 
 Git Repositories
 
-https://bitbucket.org
-https://github.com
+  * https://bitbucket.org
+  * https://github.com
 
 ---------------------------------------------------------
 
-Quick Start for vi/vim
+## Quick Start for vi/vim
 
 Remember when learing vi, there are basic concepts, and basic commands.  The concepts, are that vi is a text editor, and that there are two modes.  The main commands to know are to how modify a file, and then either save it, or discard changes.
 
-=== Concepts ===
+### Concepts 
 
 [Vi Modes]
 vi is a text editor, with two basic modes
@@ -78,7 +81,7 @@ vi is a text editor, with two basic modes
   *  Insert Mode
 
 
-=== Commands ===
+### Commands 
 
 To edit a text file:
 
